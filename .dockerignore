@@ -1,0 +1,15 @@
+__pycache__
+*.pyc
+.git
+.gitignore
+.env
+*.md
+test_request.py
+output*.json
+data/
+docker-compose.yml
+docker-compose.override.yml
+.vscode/
+.idea/
+.github/
+LICENSE
