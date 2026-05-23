@@ -1,4 +1,4 @@
-# 🎯 Face Landmark Detection Service
+# AuraMesh: Edge-Optimized Face Landmark & Coordinate Telemetry Microservice
 
 [![Docker Build](https://github.com/mehaksandhudev/Advanced-Face-Detetction-service/actions/workflows/docker-build-push.yml/badge.svg)](https://github.com/mehaksandhudev/Advanced-Face-Detetction-service/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
